@@ -260,7 +260,7 @@ function cargarFooter() {
                         </div>
                         <div class="desarrollador">
                             <img src="img/juan.jpg" alt="Juan" class="desarrollador-img">
-                            <p>Juan Diego Quevedo</p>
+                            <p>Juan Quevedo</p>
                             <div class="redes-sociales">
                                 <a href="https://instagram.com/juand.3011" class="red-social" target="_blank">
                                     <i class="fab fa-instagram"></i>
