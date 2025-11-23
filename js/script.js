@@ -64,7 +64,7 @@ function cargarIntroduccion() {
             <div class="datos-impactantes">
                 <div class="dato">
                     <h3>37%</h3>
-                    <p>de empresas han implementado IA en 2023</p>
+                    <p>de empresas han implementado IA en 2025</p>
                 </div>
                 <div class="dato">
                     <h3>$15.7T</h3>
@@ -271,7 +271,7 @@ function cargarFooter() {
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2023 IA Futura. Todos los derechos reservados.</p>
+                <p>&copy; 2025 IA Futura. Todos los derechos reservados.</p>
             </div>
         </div>
     `;
