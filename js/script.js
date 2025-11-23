@@ -242,7 +242,7 @@ function cargarFooter() {
                     <div class="desarrolladores">
                         <div class="desarrollador">
                             <img src="img/germo.jpg" alt="Germo" class="desarrollador-img">
-                            <p>Germo</p>
+                            <p>Germo Perez</p>
                             <div class="redes-sociales">
                                 <a href="https://instagram.com/germo.antonio" class="red-social" target="_blank">
                                     <i class="fab fa-instagram"></i>
@@ -251,7 +251,7 @@ function cargarFooter() {
                         </div>
                         <div class="desarrollador">
                             <img src="img/kendri.jpg" alt="Kendri" class="desarrollador-img">
-                            <p>Kendri</p>
+                            <p>Kendricks Vargas</p>
                             <div class="redes-sociales">
                                 <a href="https://instagram.com/ishigodaifuku" class="red-social" target="_blank">
                                     <i class="fab fa-instagram"></i>
@@ -260,7 +260,7 @@ function cargarFooter() {
                         </div>
                         <div class="desarrollador">
                             <img src="img/juan.jpg" alt="Juan" class="desarrollador-img">
-                            <p>Juan</p>
+                            <p>Juan Diego Quevedo</p>
                             <div class="redes-sociales">
                                 <a href="https://instagram.com/juand.3011" class="red-social" target="_blank">
                                     <i class="fab fa-instagram"></i>
